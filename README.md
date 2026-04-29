@@ -14,7 +14,7 @@ Dieses Repository enthält ein hochgradig optimiertes **Gradio-Studio** zur Gene
 ### 🚀 Performance & VRAM Management
 * **Model CPU Offloading:** Ermöglicht die Ausführung großer SVD-Modelle auf GPUs mit nur 12GB - 16GB VRAM, indem Teile des Modells bei Nichtgebrauch in den RAM verschoben werden.
 * **FP16 Mixed Precision:** Volle Unterstützung für `float16` zur Beschleunigung der Inferenz und Reduzierung des Speicherfußabdrucks.
-* **Automated Cache Clearing:** Aggressive Nutzung von `gc.collect()` und `torch.cuda.empty_cache()` nach jedem Batch, um "Out of Memory" (OOM) Fehler zu verhindern.
+* **Automated Cache Clearing:** Nutzung von `gc.collect()` und `torch.cuda.empty_cache()` nach jedem Batch, um "Out of Memory" (OOM) Fehler zu verhindern.
 
 ### 🎬 Erweiterte Videofunktionen
 * **SVD-XT Support:** Nutzt das XT-Modell für eine erhöhte Frame-Anzahl (25 Frames) und bessere Bewegungsdynamik.
