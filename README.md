@@ -1,4 +1,4 @@
-🎥 Stable Video Diffusion - Colab Optimized Studio (v1-stable)
+🎥 Stable Video Diffusion XT - Colab Optimized Studio (v1-stable)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)
