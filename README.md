@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Google_Colab-orange)
 
-Dieses Repository enthält ein hochgradig optimiertes **Gradio-Studio** zur Generierung von Videos aus Bildern mittels **Stable Video Diffusion (SVD-XT)**. Es wurde speziell für Umgebungen mit begrenztem VRAM (wie die NVIDIA T4 in Google Colab) entwickelt und bietet professionelle Features für die Videoproduktion im Jahr 2026.
+Dieses Repository enthält ein hochgradig optimiertes **Gradio-Studio** zur Generierung von Videos aus Bildern mittels **Stable Video Diffusion (SVD-XT)**. Es wurde speziell für Umgebungen mit begrenztem VRAM (wie die NVIDIA T4 in Google Colab) entwickelt.
 
 ---
 
