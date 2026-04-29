@@ -19,7 +19,7 @@ Dieses Repository enthält ein optimiertes **Gradio-Studio** zur Generierung von
 ### 🎬 Erweiterte Videofunktionen
 * **SVD-XT Support:** Nutzt das XT-Modell für eine erhöhte Frame-Anzahl (25 Frames) und bessere Bewegungsdynamik.
 * **Multi-Scheduler Switching:** Wähle zwischen **Euler Discrete**, **DDIM** und **DPM++**, um das Gleichgewicht zwischen Geschwindigkeit und Qualität anzupassen.
-* **Video Looping:** Option zur automatischen Erstellung nahtloser Loops durch Frame-Spiegelung (Ping-Pong-Effekt).
+* **Video Looping:** Option zur automatischen Erstellung nahtloser Loops durch Frame-Spiegelung.
 * **Batch Processing:** Generiere mehrere Video-Variationen in einem Durchgang mit automatischer Seed-Inkrementierung.
 
 ### 🌐 Konnektivität
